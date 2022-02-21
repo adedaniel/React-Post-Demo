@@ -6,12 +6,12 @@ import { getFirestore } from "firebase/firestore";
 import Channels from "./modules/Channels/Channels";
 
 const app = firebase.initializeApp({
-  apiKey: "AIzaSyCGXeOExauFiDCz-XFkkBp0mn5Gt09yIqo",
-  authDomain: "react-fireposts.firebaseapp.com",
-  projectId: "react-fireposts",
-  storageBucket: "react-fireposts.appspot.com",
-  messagingSenderId: "431476950457",
-  appId: "1:431476950457:web:9f68ec2d5242a559ece268",
+  apiKey: "AIzaSyAU9Iv5UVs04BBd4UtXD9zg4fRD3VL_UXg",
+  authDomain: "deploy-test-8df33.firebaseapp.com",
+  projectId: "deploy-test-8df33",
+  storageBucket: "deploy-test-8df33.appspot.com",
+  messagingSenderId: "443734113980",
+  appId: "1:443734113980:web:d127eb38f4cd57b2359ab9",
 });
 
 const auth = getAuth();
