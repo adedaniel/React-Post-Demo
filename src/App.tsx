@@ -62,7 +62,7 @@ function App() {
   if (!user) {
     return (
       <div className="App">
-        <button onClick={signinWithGoogle}>sign in</button>
+        <button onClick={signinWithGoogle}>Sign In</button>
       </div>
     );
   }
